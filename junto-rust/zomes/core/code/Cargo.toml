@@ -12,7 +12,7 @@ maplit = "1.0.1"
 itertools = "0.8"
 regex = "*"
 lazy_static = "1.2.0"
-multihash = "0.8.0"
+multihash = "0.11.3"
 rust-base58 = "=0.0.4"
 hdk = { git = "https://github.com/holochain/holochain-rust", tag = "v0.0.20-alpha3" }
 holochain_wasm_utils = { git = "https://github.com/holochain/holochain-rust", tag = "v0.0.20-alpha3" }
